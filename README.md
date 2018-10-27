@@ -11,4 +11,12 @@ using previous stock price and hybrid feature as predictor gives the best predic
 
 Here i am using Linear regression to predict prices on the basis of previous prices using the most fitting line  https://en.wikipedia.org/wiki/Linear_regression
 
-I think it is very simple method to understand.
+It is very simple method to predict stock.
+
+# Reqirements
+numpy
+python3
+matplotlib
+jupyter notebook
+
+
